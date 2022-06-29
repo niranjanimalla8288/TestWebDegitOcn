@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebDegitOcn", "TestWebDegitOcn.csproj", "{39F727C8-F4EE-4E39-8CD6-E6CE12716100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F727C8-F4EE-4E39-8CD6-E6CE12716100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F727C8-F4EE-4E39-8CD6-E6CE12716100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F727C8-F4EE-4E39-8CD6-E6CE12716100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F727C8-F4EE-4E39-8CD6-E6CE12716100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA5FE82-7C06-45A7-8689-351082E8C6B3}
+	EndGlobalSection
+EndGlobal
